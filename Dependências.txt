@@ -1,0 +1,17 @@
+Instalação de Flask
+Comando: pip install flask
+
+Instalação de supabase
+Comando: pip install supabase
+
+Instalação de bcrypt
+Comando: pip install bcrypt
+
+Instalação de qrcode
+Comando: pip install qrcode
+
+Instalação de Pillow
+Comando: pip install pillow
+
+Instalação de WeasyPrint
+Comando: pip install weasyprint
